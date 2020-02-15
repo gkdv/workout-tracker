@@ -16,5 +16,14 @@
     "express": "^4.16.3",
     "mongoose": "^5.3.16",
     "morgan": "^1.9.1"
-  }
+  },
+    "_id": "heroku_zj43r0ww.garrettkrage",
+    "user": "garrettkrage",
+    "db": "heroku_zj43r0ww",
+    "roles": [
+      {
+        "role": "dbOwner",
+        "db": "heroku_zj43r0ww"
+      }
+    ]
 }
