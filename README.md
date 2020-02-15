@@ -21,3 +21,6 @@ The user should be able to:
     
 -   View multiple the combined weight of multiple exercises on the `stats` page. 
 - You can get the the stats page by adding /stats to the url.
+
+## Link to website deployed on heroku
+https://hidden-stream-49876.herokuapp.com/
