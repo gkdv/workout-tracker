@@ -22,7 +22,7 @@ app.use(express.json());
 app.use(express.static("public"));
 
 // connection to mongoDB through mongoose
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout",{
+mongoose.connect(process.env.MONGODB_URI || "mongodb://garrettkrage:5Kgk4107.cu.du@ds015892.mlab.com:15892/heroku_zj43r0ww",{
   useNewUrlParser: true,
   useUnifiedTopology: true
 })
